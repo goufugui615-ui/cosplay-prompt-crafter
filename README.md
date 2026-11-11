@@ -49,3 +49,11 @@ evals/                      10 æ¡è¯„æµ‹ç”¨ä¾‹ + è¯„åˆ†æ ‡å‡†
 ## License
 
 ä¸ªäººå­¦ä¹ ä¸åˆ›ä½œå‚è€ƒã€‚è§’è‰²ä¸ä½œå“ç‰ˆæƒå½’åŸä½œè€…ï¼›ç¦æ­¢å•†ç”¨ä¸äºŒæ¬¡åˆ†å‘ã€‚
+
+## CI
+
+±¾²Ö¿âÄ¬ÈÏ²»º¬ GitHub Actions£¨ÍÆËÍ workflow ĞèÒª token µÄ workflow È¨ÏŞ£©¡£Ïë¿ªÆô CI£º
+
+1. ¸´ÖÆ `ci/github-actions.yml` µ½ `.github/workflows/ci.yml`£»
+2. `gh auth refresh -s workflow` ºó push¡£
+
