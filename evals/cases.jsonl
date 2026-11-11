@@ -1,0 +1,10 @@
+{"id": "c01", "request": "知更鸟晴歌 私房沙发 3:4", "must_include": ["知更鸟晴歌", "1024×1536", "photorealistic", "fully clothed"]}
+{"id": "c02", "request": "沃雅妮莎 海边礁石 9:16", "must_include": ["沃雅妮莎", "1024×1536", "海"]}
+{"id": "c03", "request": "车展商业人像 4:3", "must_include": ["1536×1024", "softbox"]}
+{"id": "c04", "request": "夜景霓虹街拍", "must_include": ["neon", "no text"]}
+{"id": "c05", "request": "手部总是畸形怎么改", "must_include": ["five fingers", "anatomy"]}
+{"id": "c06", "request": "皮肤太塑料", "must_include": ["skin texture", "pores"]}
+{"id": "c07", "request": "想改成 16:9 横幅", "must_include": ["1536×1024", "landscape"]}
+{"id": "c08", "request": "给这位角色换一个场景但脸不变", "must_include": ["keep", "same character"]}
+{"id": "c09", "request": "生成三套光线不同的变体", "must_include": ["变体", "Lighting"]}
+{"id": "c10", "request": "检查这条提示词是否合规", "must_include": ["lint", "合规"]}
