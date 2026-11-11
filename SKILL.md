@@ -1,11 +1,15 @@
 ---
 name: cosplay-prompt-crafter
-description: 真人 coser 摄影 AI 出图提示词专家（ChatGPT / GPT Image 优先）。把"角色+场景+风格"转成可复现、可校验的提示词：内置 59 套已验证配方、4 张角色锚点卡、镜头/光线/负面词库、ChatGPT 尺寸与改写规则，并提供检索、文案校验、变体生成脚本。当用户提到 cosplay、coser、真人cos、二次元角色真人化、AI 出图提示词、私房/街拍/车展/舞台摄影 prompt 时使用。Triggers: cosplay prompt, coser, ChatGPT image, 真人cos, 提示词, 二次元真人化.
-version: 2.0.0
+description: >-
+  真人 coser 摄影 AI 出图提示词专家，优先适配 ChatGPT（GPT Image）。
+  把「角色 + 场景 + 风格」转成可复现、可校验的提示词：内置 59 套已验证配方、4 张角色锚点卡、镜头 / 光线 / 负面词库，以及 ChatGPT 尺寸映射与改写规则，并提供检索、文案校验、变体生成脚本。
+  当用户提到 cosplay、coser、真人 cos、二次元角色真人化、AI 出图提示词、私房 / 街拍 / 车展 / 舞台摄影 prompt 时使用。
 license: 个人学习与创作参考；角色版权归原作者，禁止商用与二次分发
 ---
 
 # 真人 Coser 摄影提示词工坊（ChatGPT 版）
+
+> 当前版本：2.0.0
 
 面向 **ChatGPT（GPT Image）** 的出图提示词工程：先查配方，再按适配规则改写，最后跑脚本校验。
 
